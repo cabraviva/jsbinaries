@@ -1,0 +1,23 @@
+{
+  "name": "jsbinary",
+  "version": "1.0.0",
+  "description": "jsbinary is a  precompiler for javascript which makes it unreadable for humans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greencoder001/jsbinary.git"
+  },
+  "keywords": [
+    "js",
+    "precompiler"
+  ],
+  "author": "greencoder001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greencoder001/jsbinary/issues"
+  },
+  "homepage": "https://github.com/greencoder001/jsbinary#readme"
+}
